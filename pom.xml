@@ -8,7 +8,7 @@
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
-    <version>2.6.2</version>
+    <version>2.6.3</version>
     <relativePath />
   </parent>
   <groupId>org.folio</groupId>
@@ -68,7 +68,7 @@
     </calendar-api-defintions-yaml-file>
 
     <!-- Test Properties-->
-    <spring-boot-starter-test.version>2.6.0</spring-boot-starter-test.version>
+    <spring-boot-starter-test.version>2.6.3</spring-boot-starter-test.version>
     <wiremock.version>2.31.0</wiremock.version>
     <rest-assured.version>4.4.0</rest-assured.version>
     <embedded-database-spring-test.version>2.1.1</embedded-database-spring-test.version>
