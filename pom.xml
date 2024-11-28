@@ -75,7 +75,7 @@
     <swagger-request-validator.version>2.25.1</swagger-request-validator.version>
     <hamcrest-date-matcher.version>2.0.8</hamcrest-date-matcher.version>
     <jacoco-maven-plugin.version>0.8.7</jacoco-maven-plugin.version>
-    <jackson-datatype-jsr310.version>2.13.1</jackson-datatype-jsr310.version>
+    <jackson-datatype-jsr310.version>2.18.2</jackson-datatype-jsr310.version>
   </properties>
 
   <dependencies>
