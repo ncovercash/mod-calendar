@@ -59,7 +59,7 @@
     <json.version>20200518</json.version>
     <lombok.version>1.18.22</lombok.version>
     <lombok-maven-plugin.version>1.18.20.0</lombok-maven-plugin.version>
-    <liquibase-maven-plugin.version>4.7.1</liquibase-maven-plugin.version>
+    <liquibase-maven-plugin.version>4.31.0</liquibase-maven-plugin.version>
     <javadoc-maven-plugin.version>3.3.1</javadoc-maven-plugin.version>
     <icu4j.version>70.1</icu4j.version>
 
