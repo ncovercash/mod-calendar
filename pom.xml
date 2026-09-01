@@ -57,7 +57,7 @@
     <folio-spring-base.version>4.0.0</folio-spring-base.version>
     <openapi-generator.version>5.4.0</openapi-generator.version>
     <json.version>20200518</json.version>
-    <lombok.version>1.18.22</lombok.version>
+    <lombok.version>1.18.48</lombok.version>
     <lombok-maven-plugin.version>1.18.20.0</lombok-maven-plugin.version>
     <liquibase-maven-plugin.version>4.7.1</liquibase-maven-plugin.version>
     <javadoc-maven-plugin.version>3.3.1</javadoc-maven-plugin.version>
